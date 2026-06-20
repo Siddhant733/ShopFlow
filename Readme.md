@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/screenshot-for-readme%20(1).png)
 
 ### Modern E-Commerce Platform Built with the PERN Stack
 
